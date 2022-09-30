@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(32, 23, 23);
+    margin: auto;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.recipe-list {
+    text-align: left;
+    text-decoration: solid;
+    color: black;
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
+}
