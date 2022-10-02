@@ -1,11 +1,12 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: american typewriter, serif;
     background-color: beige;
 }
-
+/* homepage */
 .title {
+    font-family: luminari, fantasy;
     font-size: 50px;
-    font-weight: 600;
+    font-weight: 100;
     color: rgb(32, 23, 23);
     margin: auto;
     text-align: center;
@@ -20,3 +21,31 @@ body {
     font-weight: 500;
     font-style: italic;
 }
+
+img {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spaghetti {
+    width: 300%;
+    max-width: 300px;
+}
+
+.recipestitle {
+    text-align: center;
+    font-family: cursive;
+
+}
+
+.des, .ing, .steps {
+    font-family: cursive;
+    text-decoration: underline;
+}
+
